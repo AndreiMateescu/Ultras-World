@@ -1,0 +1,68 @@
+﻿@model BackUp1Final.Models.Player
+@{
+    ViewBag.Title = "Delete Player";
+}
+
+<br /><br />
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Delete a specific player">
+    Delete Player
+</button>
+<br /><br />
+
+<div class="alert alert-danger">
+    Are you sure you want to delete the following player?
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+
+        <div class="row">
+            <div class="col-xs-4 col-sm-3">
+                @Html.LabelFor(m => m.BirthDate)
+            </div>
+            <div class="col-xs-8 col-sm-9">
+                @Model.BirthDate.ToShortDateString()
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-4 col-sm-3">
+                @Html.LabelFor(m => m.FirstName)
+            </div>
+            <div class="col-xs-8 col-sm-9">
+                @Model.FirstName
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-4 col-sm-3">
+                @Html.LabelFor(m => m.LastName)
+            </div>
+            <div class="col-xs-8 col-sm-9">
+                @Model.LastName
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-4 col-sm-3">
+                @Html.LabelFor(m => m.Nationality)
+            </div>
+            <div class="col-xs-8 col-sm-9">
+                @Model.Nationality
+            </div>
+        </div>
+
+        @using (Html.BeginForm())
+        { 
+            <div class="pad-top">
+                <button type="submit" class="btn btn-danger btn-lg margin-right">
+                    <span class="glyphicon glyphicon-trash"></span> Delete
+                </button>
+                <a href="@Url.Action("Players")" class="btn btn-warning btn-lg">
+                    <span class="glyphicon glyphicon-remove"></span> Cancel
+                </a>
+            </div>
+        }
+    </div>
+
+</div>

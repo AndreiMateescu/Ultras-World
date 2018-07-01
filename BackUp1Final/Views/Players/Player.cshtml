@@ -1,0 +1,43 @@
+﻿@model BackUp1Final.Models.Player
+@{
+    ViewBag.Title = Model.FullName;
+}
+
+<br /><br />
+
+<h2 align="center">@Model.FullName</h2>
+
+<br /><br />
+
+<div class="col-sm-4">
+    <img src=@Url.Content(Model.CoverImageFileName) alt="image" height="300" width="200" />
+</div>
+
+<br /><br />
+
+<div class="col-sm-8">
+    <ul class="list-group">
+        <li class="list-group-item">Nationality: @Model.Nationality</li>
+        <li class="list-group-item">Transfer Value: @Model.TransferValue</li>
+        <li class="list-group-item">Best Transfer Value: @Model.BestTransferValue</li>
+        <li class="list-group-item">Trophies: @Model.Trophies M</li>
+        <li class="list-group-item">BirthDate: @Model.BirthDate.ToShortDateString()</li>
+        <li class="list-group-item">Club: @Model.Club M</li>
+    </ul>
+</div>
+<br /><br />
+<button type="button" class="btn btn-primary btn-block">Show more</button>
+
+<br /><br />
+
+<div class="pad-top">
+    <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-primary btn-lg margin-right">
+        <span class="glyphicon glyphicon-edit"></span> Edit
+    </a>
+    <a href="@Url.Action("Delete", new { id = Model.Id })" class="btn btn-danger btn-lg margin-right">
+        <span class="glyphicon glyphicon-trash"></span> Delete
+    </a>
+    <a href="@Url.Action("Players")" class="btn btn-default btn-lg">
+        <span class="glyphicon glyphicon-step-backward"></span> Back
+    </a>
+</div>

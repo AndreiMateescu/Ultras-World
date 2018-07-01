@@ -1,0 +1,285 @@
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\ApplicationInsights.config
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\BackUp1Final.dll.config
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\BackUp1Final.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\BackUp1Final.pdb
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Antlr3.Runtime.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\EntityFramework.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.Web.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Newtonsoft.Json.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Owin.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Helpers.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Mvc.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Optimization.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Razor.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.WebPages.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\WebGrease.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Helpers.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Mvc.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Optimization.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.Razor.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.WebPages.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Antlr3.Runtime.pdb
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Newtonsoft.Json.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\EntityFramework.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\bin\Microsoft.AI.Web.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\obj\Debug\BackUp1Final.csprojResolveAssemblyReference.cache
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\obj\Debug\BackUp1Final.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\obj\Debug\BackUp1Final.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\BackUp1Final\BackUp1Final\obj\Debug\BackUp1Final.pdb
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\ApplicationInsights.config
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\BackUp1Final.dll.config
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\BackUp1Final.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\BackUp1Final.pdb
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Antlr3.Runtime.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\EntityFramework.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.Web.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Newtonsoft.Json.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Owin.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Helpers.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Mvc.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Optimization.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Razor.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.WebPages.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\WebGrease.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Helpers.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Mvc.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Optimization.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.Razor.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.WebPages.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Antlr3.Runtime.pdb
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Newtonsoft.Json.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\EntityFramework.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\bin\Microsoft.AI.Web.xml
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csprojResolveAssemblyReference.cache
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\obj\Debug\BackUp1Final.dll
+C:\Users\Andrei Mateescu\Desktop\C# & .NET\WAD\Lucru\BackUp1Final\obj\Debug\BackUp1Final.pdb
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\ApplicationInsights.config
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\BackUp1Final.dll.config
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\BackUp1Final.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\BackUp1Final.pdb
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Antlr3.Runtime.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\EntityFramework.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\EntityFramework.SqlServer.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.Web.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Newtonsoft.Json.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Owin.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Helpers.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Mvc.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Optimization.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Razor.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.WebPages.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\WebGrease.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Helpers.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Mvc.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Optimization.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.Razor.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.WebPages.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Antlr3.Runtime.pdb
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Newtonsoft.Json.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\EntityFramework.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\EntityFramework.SqlServer.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\bin\Microsoft.AI.Web.xml
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csprojResolveAssemblyReference.cache
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csproj.CoreCompileInputs.cache
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csproj.CopyComplete
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\obj\Debug\BackUp1Final.dll
+C:\Users\a.r.mateescu\Desktop\LucruPtNetrom\Lucru\BackUp1Final\obj\Debug\BackUp1Final.pdb
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\ApplicationInsights.config
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\BackUp1Final.dll.config
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\BackUp1Final.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\BackUp1Final.pdb
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Antlr3.Runtime.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\EntityFramework.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.Web.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Newtonsoft.Json.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Owin.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Helpers.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Mvc.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Optimization.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Razor.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.WebPages.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\WebGrease.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Helpers.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Mvc.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Optimization.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.Razor.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.WebPages.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Antlr3.Runtime.pdb
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Newtonsoft.Json.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\EntityFramework.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\bin\Microsoft.AI.Web.xml
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csprojResolveAssemblyReference.cache
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\obj\Debug\BackUp1Final.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\obj\Debug\BackUp1Final.dll
+C:\Users\Andrei Mateescu\Desktop\Lucru\Lucru\BackUp1Final\obj\Debug\BackUp1Final.pdb

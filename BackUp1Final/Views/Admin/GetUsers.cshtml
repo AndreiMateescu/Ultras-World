@@ -1,0 +1,13 @@
+﻿@model List<BackUp1Final.Models.ApplicationUser>
+@{
+    ViewBag.Title = "GetUsers";
+}
+
+<h2>GetUsers</h2>
+
+@foreach(var item in Model)
+{
+    <h1>@item.Email</h1>
+}
+
+

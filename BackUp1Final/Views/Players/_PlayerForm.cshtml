@@ -1,0 +1,72 @@
+﻿@model BackUp1Final.Models.Player
+
+@using (Html.BeginForm())
+{
+    @*<style>
+            .validation-summary-valid {
+                display: none;
+            }
+        </style>*@
+
+    <link href="~/Content/ValidationSummary.css" rel="stylesheet" type="text/css" />
+
+    @Html.ValidationSummary("The following errors were found: ", new { @class = "alert alert-danger" })
+
+    <div class="row">
+
+        <div class="col-md-6">
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.FirstName, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.LastName, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.LastName, null, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Nationality, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.Nationality, null, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.TransferValue, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.TransferValue, null, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.BestTransferValue, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.BestTransferValue, null, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Trophies, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.Trophies, null, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.BirthDate, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.BirthDate, "{0:d}", new { @class = "form-control datepicker" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Club, new { @class = "control-label" })
+                @Html.TextBoxFor(m => m.Club, null, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="col-md-12">
+            <div class="pad-top">
+                <button type="submit" class="btn btn-success btn-lg margin-right">
+                    <span class="glyphicon glyphicon-save"></span> Save
+                </button>
+                <a href="@Url.Action("Players")" class="btn btn-warning btn-lg">
+                    <span class="glyphicon glyphicon-remove"></span> Cancel
+                </a>
+            </div>
+        </div>
+
+    </div>
+}

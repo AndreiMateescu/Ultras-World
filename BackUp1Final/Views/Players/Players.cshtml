@@ -1,0 +1,44 @@
+﻿@model List<BackUp1Final.Models.Player>
+@{
+    ViewBag.Title = "Players";
+}
+
+<br /><br /><br />
+
+<a href="@Url.Action("AddPlayer", "Players")"
+   class="btn btn-primary navbar-btn navbar-right">
+    <span class="glyphicon glyphicon-plus"></span> Add Player
+</a>
+
+<br /><br /><br />
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        @TempData["Message"]
+    </div>
+}
+
+<br /><br />
+
+@if (Model != null && Model.Count > 0)
+{
+    <div class="container">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-4">
+                <div class="display-label">
+                    @Html.ActionLink(item.FullName, "Player", new { id = item.Id })
+                </div>
+                <div class="display-field">
+                    <a href="@Url.Action("Player", "Players", new { id = item.Id })">
+                        <img src="@Url.Content(item.CoverImageFileName)" alt="image" height="300" width="200" />
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+}

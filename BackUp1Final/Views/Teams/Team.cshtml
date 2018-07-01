@@ -1,0 +1,57 @@
+﻿@model BackUp1Final.Models.Team
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<br /><br />
+
+<h2 align="center">@Model.Name</h2>
+
+<br /><br />
+
+<div class="col-sm-4">
+    <img src=@Url.Content(Model.CoverImageFileName) alt="image" height="300" width="200"/>
+</div>
+
+<br /><br />
+
+<div class="col-sm-8">
+    <ul class="list-group">
+        <li class="list-group-item">Country: @Model.Country</li>
+        <li class="list-group-item">
+            Rating:
+            <span class="rating">
+                @for (var i = 0; i < Model.Rating; i++)
+                {
+                    <span class="glyphicon glyphicon-star"></span>
+                }
+
+                @for(var i=Model.Rating; i<5; i++)
+                {
+                    <span class="glyphicon glyphicon-star-empty"></span>
+                }
+            </span>
+        </li>
+        <li class="list-group-item">Championships: @Model.Championships</li>
+        <li class="list-group-item">Cups: @Model.Cups</li>
+        <li class="list-group-item">Founding Date: @Model.FoundingDate.ToShortDateString()</li>
+        <li class="list-group-item">Stadium: @Model.Stadium</li>
+        <li class="list-group-item">Seats: @Model.Seats</li>
+    </ul>
+</div>
+
+<button type="button" class="btn btn-primary btn-block">Show more</button>
+
+<br /><br /><br />
+
+<div class="pad-top">
+    <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-primary btn-lg margin-right">
+        <span class="glyphicon glyphicon-edit"></span> Edit
+    </a>
+    <a href="@Url.Action("Delete", new { id = Model.Id })" class="btn btn-danger btn-lg margin-right">
+        <span class="glyphicon glyphicon-trash"></span> Delete
+    </a>
+    <a href="@Url.Action("Teams")" class="btn btn-default btn-lg">
+        <span class="glyphicon glyphicon-step-backward"></span> Back
+    </a>
+</div>
